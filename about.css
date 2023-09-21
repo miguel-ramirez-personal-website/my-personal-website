@@ -19,7 +19,7 @@ h1, h2, section {
   
   section:nth-of-type(even) > img {
     float: right;
-    margin: 0 0 24px 24px;
+    margin: -24px 0 24px 24px;
   }
   
   section {
