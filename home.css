@@ -1,0 +1,21 @@
+h1, h2 {
+    font-weight: 300;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+  }
+  
+  h2 {
+    font-size: 1.75em;
+  }
+  .quote {
+    font-weight: 100;
+    color: white;
+    text-shadow: 0 0 20px black;
+    font-size: 3.25em;
+    text-align: right;
+    margin-top: 2em;
+  }
